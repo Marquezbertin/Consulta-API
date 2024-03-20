@@ -13,7 +13,7 @@ Certifique-se de ter o Python instalado em seu sistema.
 ## Clone este repositório em sua máquina local:
 * bash
 * Copy code
-* git clone https://github.com/Marquezbertin/consulta-api-paises.git
+* git clone https:https://github.com/Marquezbertin/Consulta-API
 * Navegue até o diretório do projeto:
 * bash
 * Copy code
